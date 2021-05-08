@@ -24,7 +24,7 @@ https://bair.berkeley.edu/blog/ <br />
 https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists <br />
 https://www.youtube.com/c/MachineLearningwithPhil/playlists <br />
 
-# Who developed and maintain this repository?
+# Who developed and maintains this repository?
 We are a group of three students at IIT Bombay. We developed this project as a part of the course 'Introduction to Machine Learning' at The Centre for Machine Intelligence and Data Science (IIT Bombay). Feel free to reach out to us for any help and clarifications. <br />
 -Aryan Khanna <br />
 -Dhruv Patwa <br />
